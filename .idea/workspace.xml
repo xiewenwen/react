@@ -112,10 +112,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="修改文件" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="314" y="36" key="CommitChangelistDialog2" timestamp="1577525487343">
+    <state x="314" y="36" key="CommitChangelistDialog2" timestamp="1577525609876">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state x="314" y="36" key="CommitChangelistDialog2/0.23.1440.814@0.23.1440.814" timestamp="1577525487343" />
+    <state x="314" y="36" key="CommitChangelistDialog2/0.23.1440.814@0.23.1440.814" timestamp="1577525609876" />
     <state x="314" y="36" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1575125280327" />
     <state x="587" y="334" key="Github.ShareDialog" timestamp="1575125111324">
       <screen x="0" y="23" width="1440" height="821" />
@@ -158,9 +158,10 @@
     </state>
     <state x="320" y="172" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1577525450983" />
     <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1575125456282" />
-    <state x="509" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575125235943">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="509" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577525648781">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
+    <state x="509" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.814@0.23.1440.814" timestamp="1577525648781" />
     <state x="509" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.816@0.23.1440.816" timestamp="1575080163596" />
     <state x="509" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.821@0.23.1440.821" timestamp="1575125235943" />
     <state x="385" y="167" width="670" height="673" key="search.everywhere.popup" timestamp="1577507335105">
