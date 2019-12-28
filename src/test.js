@@ -2,8 +2,6 @@ import React ,{Component} from 'react';
 import ReactDOM from 'react-dom';
 import './App.css';
 
-import axios from 'axion';
-
 class Test extends Component{
     render() {
         return(
@@ -14,16 +12,5 @@ class Test extends Component{
 
 
 }
-class Taobao extends Component{
-    constructor(props) {
-        super(props);
-        this.state={
-            list:[]
-        }
-
-    }
-
-}
-
 
 export default Test;

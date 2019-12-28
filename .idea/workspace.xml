@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fc580e8-9295-4778-ae19-6834e692bfbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="6fc580e8-9295-4778-ae19-6834e692bfbc" name="Default Changelist" comment="修改文件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,16 +78,42 @@
       <option name="presentableId" value="Default" />
       <updated>1575079437758</updated>
       <workItem from="1575079439586" duration="13187000" />
-      <workItem from="1575124119780" duration="604000" />
+      <workItem from="1575124119780" duration="907000" />
+      <workItem from="1577505091963" duration="2809000" />
     </task>
+    <task id="LOCAL-00001" summary="修改文件">
+      <created>1575125352562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575125352562</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改文件" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="314" y="36" key="CommitChangelistDialog2" timestamp="1575125280327">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="314" y="36" key="CommitChangelistDialog2" timestamp="1575125352438">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="314" y="36" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1575125280327" />
     <state x="587" y="334" key="Github.ShareDialog" timestamp="1575125111324">
@@ -125,18 +148,20 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="229" y="72" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1575079895569" />
-    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1575125033792">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="320" y="172" key="Vcs.Push.Dialog.v2" timestamp="1577525450983">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1575125033792" />
+    <state x="320" y="172" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1577525450983" />
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1575125456282" />
     <state x="509" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575125235943">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="509" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.816@0.23.1440.816" timestamp="1575080163596" />
     <state x="509" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.821@0.23.1440.821" timestamp="1575125235943" />
-    <state x="385" y="168" width="670" height="677" key="search.everywhere.popup" timestamp="1575089038735">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="385" y="167" width="670" height="673" key="search.everywhere.popup" timestamp="1577507335105">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
+    <state x="385" y="167" width="670" height="673" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1577507335105" />
     <state x="385" y="168" width="670" height="676" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1575082241913" />
     <state x="385" y="168" width="670" height="677" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1575089038735" />
   </component>

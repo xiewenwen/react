@@ -2,9 +2,10 @@ import React,{Component} from 'react';
 
 import logo from './logo.svg';
 import './App.css';
-import test from "./test";
+
 import Word from "./Word";
 import Rose from "./Rose";
+import Test from "./test";
 
 import ReactDOM from 'react-dom';
 
@@ -47,8 +48,10 @@ class App extends Component{
           </div>
               <Word></Word>
               <Rose/>
+              <Test/>
 
           </div>
+
 
 
       );
