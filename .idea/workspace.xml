@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fc580e8-9295-4778-ae19-6834e692bfbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/xiewenwen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/axiosTest.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +38,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="axiosTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/axiosTest.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <configuration name="npm start" type="js.build_tools.npm">
@@ -52,6 +64,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.axiosTest.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -77,7 +94,17 @@
       <updated>1575079437758</updated>
       <workItem from="1575079439586" duration="13187000" />
       <workItem from="1575124119780" duration="907000" />
-      <workItem from="1577505091963" duration="3060000" />
+      <workItem from="1577505091963" duration="3138000" />
+      <workItem from="1593430762907" duration="1300000" />
+      <workItem from="1593432588029" duration="719000" />
+      <workItem from="1593524919483" duration="1510000" />
+      <workItem from="1593526756063" duration="1611000" />
+      <workItem from="1593528575345" duration="762000" />
+      <workItem from="1594193417913" duration="1206000" />
+      <workItem from="1594195552913" duration="653000" />
+      <workItem from="1599435528436" duration="829000" />
+      <workItem from="1603467582956" duration="11000" />
+      <workItem from="1605413877960" duration="373000" />
     </task>
     <task id="LOCAL-00001" summary="修改文件">
       <created>1575125352562</created>
@@ -107,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577525670578</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修改文件 test">
+      <created>1577525757685</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577525757685</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,63 +167,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="修改文件 test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="314" y="36" key="CommitChangelistDialog2" timestamp="1577525734041">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605414765016">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="314" y="36" key="CommitChangelistDialog2/0.23.1440.814@0.23.1440.814" timestamp="1577525734041" />
-    <state x="314" y="36" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1575125280327" />
-    <state x="587" y="334" key="Github.ShareDialog" timestamp="1575125111324">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state x="587" y="334" key="Github.ShareDialog/0.23.1440.821@0.23.1440.821" timestamp="1575125111324" />
-    <state width="689" height="198" key="GridCell.Tab.0.bottom" timestamp="1577525491562">
-      <screen x="0" y="23" width="1440" height="814" />
-    </state>
-    <state width="689" height="198" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1577525491562" />
-    <state width="689" height="198" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1575082280829" />
-    <state width="689" height="198" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1575094973840" />
-    <state width="689" height="198" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1575085325260" />
-    <state width="689" height="198" key="GridCell.Tab.0.center" timestamp="1577525491561">
-      <screen x="0" y="23" width="1440" height="814" />
-    </state>
-    <state width="689" height="198" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1577525491561" />
-    <state width="689" height="198" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1575082280827" />
-    <state width="689" height="198" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1575094973839" />
-    <state width="689" height="198" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1575085325259" />
-    <state width="689" height="198" key="GridCell.Tab.0.left" timestamp="1577525491560">
-      <screen x="0" y="23" width="1440" height="814" />
-    </state>
-    <state width="689" height="198" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1577525491560" />
-    <state width="689" height="198" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1575082280826" />
-    <state width="689" height="198" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1575094973839" />
-    <state width="689" height="198" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1575085325258" />
-    <state width="689" height="198" key="GridCell.Tab.0.right" timestamp="1577525491562">
-      <screen x="0" y="23" width="1440" height="814" />
-    </state>
-    <state width="689" height="198" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1577525491562" />
-    <state width="689" height="198" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1575082280827" />
-    <state width="689" height="198" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1575094973840" />
-    <state width="689" height="198" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1575085325259" />
-    <state x="229" y="72" key="SettingsEditor" timestamp="1575079895569">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state x="229" y="72" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1575079895569" />
-    <state x="320" y="172" key="Vcs.Push.Dialog.v2" timestamp="1577525688377">
-      <screen x="0" y="23" width="1440" height="814" />
-    </state>
-    <state x="320" y="172" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1577525688377" />
-    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1575125456282" />
-    <state x="509" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577525648781">
-      <screen x="0" y="23" width="1440" height="814" />
-    </state>
-    <state x="509" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.814@0.23.1440.814" timestamp="1577525648781" />
-    <state x="509" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.816@0.23.1440.816" timestamp="1575080163596" />
-    <state x="509" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.821@0.23.1440.821" timestamp="1575125235943" />
-    <state x="385" y="167" width="670" height="673" key="search.everywhere.popup" timestamp="1577507335105">
-      <screen x="0" y="23" width="1440" height="816" />
-    </state>
-    <state x="385" y="167" width="670" height="673" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1577507335105" />
-    <state x="385" y="168" width="670" height="676" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1575082241913" />
-    <state x="385" y="168" width="670" height="677" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1575089038735" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605414765016" />
   </component>
 </project>

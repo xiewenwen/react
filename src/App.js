@@ -6,6 +6,7 @@ import './App.css';
 import Word from "./Word";
 import Rose from "./Rose";
 import Test from "./test";
+import F from "./axiosTest";
 
 import ReactDOM from 'react-dom';
 
@@ -49,8 +50,10 @@ class App extends Component{
               <Word></Word>
               <Rose/>
               <Test/>
+              <F></F>
 
           </div>
+
 
 
 
