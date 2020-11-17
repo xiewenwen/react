@@ -8,16 +8,14 @@ import axios from 'axios';
 // axios.defaults.headers.post['Content-Type'] = 'application/json';
 
 function Standard() {
-    //const dispatch=useDispatch();
-    //const code=null;
     const [code,setCode]=useState(500);
     const [data,setData]=useState(0);
     useEffect(()=>{
             axios.post('/quality/v1/standard/save',{
-                columnCName:'十多素2',
+                columnCName:'名称',
                 columnName:'ss',
                 columnType:0,
-                remark:'sdsdsdsd'
+                remark:'备注'
             })
                 .then(function (response) {
                     console.log(response);
@@ -32,13 +30,10 @@ function Standard() {
                     console.log(error);
                 });
         },[]
-
     );
     return(
         //this.response.data;
         <div>{data}</div>
-
-
     );
 }
 

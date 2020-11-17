@@ -19,16 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc580e8-9295-4778-ae19-6834e692bfbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ButtonStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Standard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setupProxy.js" afterDir="false" />
+    <list default="true" id="6fc580e8-9295-4778-ae19-6834e692bfbc" name="Default Changelist" comment="引入antd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rose.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Standard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Standard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupProxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupProxy.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577525757685</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="引入antd">
+      <created>1605600497152</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605600497152</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,32 +176,46 @@
     <MESSAGE value="修改文件" />
     <MESSAGE value="修改文件888" />
     <MESSAGE value="修改文件 test" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改文件 test" />
+    <MESSAGE value="引入antd" />
+    <option name="LAST_COMMIT_MESSAGE" value="引入antd" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="136" key="GridCell.Tab.0.bottom" timestamp="1605599782451">
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1605604491459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="136" key="GridCell.Tab.0.bottom/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605599782451" />
-    <state width="1345" height="136" key="GridCell.Tab.0.center" timestamp="1605599782451">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605604491459" />
+    <state width="1308" height="136" key="GridCell.Tab.0.bottom" timestamp="1605608684763">
+      <screen x="-1920" y="-308" width="1920" height="1040" />
     </state>
-    <state width="1345" height="136" key="GridCell.Tab.0.center/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605599782451" />
-    <state width="1345" height="136" key="GridCell.Tab.0.left" timestamp="1605599782450">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1308" height="136" key="GridCell.Tab.0.bottom/-1920.-308.1920.1040/0.0.1366.728@-1920.-308.1920.1040" timestamp="1605608684763" />
+    <state width="1345" height="136" key="GridCell.Tab.0.bottom/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605604493167" />
+    <state width="1308" height="136" key="GridCell.Tab.0.center" timestamp="1605608684762">
+      <screen x="-1920" y="-308" width="1920" height="1040" />
     </state>
-    <state width="1345" height="136" key="GridCell.Tab.0.left/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605599782450" />
-    <state width="1345" height="136" key="GridCell.Tab.0.right" timestamp="1605599782451">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1308" height="136" key="GridCell.Tab.0.center/-1920.-308.1920.1040/0.0.1366.728@-1920.-308.1920.1040" timestamp="1605608684762" />
+    <state width="1345" height="136" key="GridCell.Tab.0.center/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605604493167" />
+    <state width="1308" height="136" key="GridCell.Tab.0.left" timestamp="1605608684762">
+      <screen x="-1920" y="-308" width="1920" height="1040" />
     </state>
-    <state width="1345" height="136" key="GridCell.Tab.0.right/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605599782451" />
+    <state width="1308" height="136" key="GridCell.Tab.0.left/-1920.-308.1920.1040/0.0.1366.728@-1920.-308.1920.1040" timestamp="1605608684762" />
+    <state width="1345" height="136" key="GridCell.Tab.0.left/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605604493167" />
+    <state width="1308" height="136" key="GridCell.Tab.0.right" timestamp="1605608684763">
+      <screen x="-1920" y="-308" width="1920" height="1040" />
+    </state>
+    <state width="1308" height="136" key="GridCell.Tab.0.right/-1920.-308.1920.1040/0.0.1366.728@-1920.-308.1920.1040" timestamp="1605608684763" />
+    <state width="1345" height="136" key="GridCell.Tab.0.right/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605604493167" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1605599608207">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605599608207" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605414765016">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="304" y="154" key="Vcs.Push.Dialog.v2" timestamp="1605600515001">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="304" y="154" key="Vcs.Push.Dialog.v2/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605600515001" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605414765016" />
+    <state x="486" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605604464512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="486" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605604464512" />
   </component>
 </project>
