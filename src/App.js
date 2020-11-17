@@ -7,31 +7,12 @@ import Word from "./Word";
 import Rose from "./Rose";
 import Test from "./test";
 import F from "./axiosTest";
+import { Button } from 'antd';
 
-import ReactDOM from 'react-dom';
 
-// function App() {
-//   return (
-//     <div className="App">
-//       <header className="App-header">
-//         <img src={logo} className="App-logo" alt="logo" />
-//         <p>
-//           Edit <code>src/App.js</code> and save to reload.
-//         </p>
-//         <h3>陈信宏 爱你哦</h3>
-//         <a
-//           className="App-link"
-//           href="https://reactjs.org"
-//           target="_blank"
-//           rel="noopener noreferrer"
-//         >
-//           Learn React
-//         </a>
-//         <test></test>
-//       </header>
-//     </div>
-//   );
-// }
+import Standard from "./Standard";
+import ButtonStyle from "./ButtonStyle";
+
 class App extends Component{
     constructor(props) {
 
@@ -44,13 +25,18 @@ class App extends Component{
       return(
           <div>
           <div className='App'>
-              陈信宏{this.state.song}
+              哈哈哈哈哈{this.state.song}
 
           </div>
               <Word></Word>
               <Rose/>
               <Test/>
-              <F></F>
+              {/*<F></F>*/}
+              <Standard></Standard>
+              <ButtonStyle></ButtonStyle>
+              <Button type="primary">Primary Button</Button>
+              <Button>Default Button</Button>
+              <Button type="dashed">Dashed Button</Button>
 
           </div>
 

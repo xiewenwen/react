@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc580e8-9295-4778-ae19-6834e692bfbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/xiewenwen.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/axiosTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ButtonStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Standard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupProxy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rose.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rose.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +50,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -45,7 +64,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -64,23 +83,16 @@
       <envs />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="Node.js.axiosTest.js" />
+      <item itemvalue="npm.npm start" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.axiosTest.js" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -152,13 +164,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改文件" />
@@ -167,6 +178,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="修改文件 test" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1345" height="136" key="GridCell.Tab.0.bottom" timestamp="1605599782451">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="136" key="GridCell.Tab.0.bottom/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605599782451" />
+    <state width="1345" height="136" key="GridCell.Tab.0.center" timestamp="1605599782451">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="136" key="GridCell.Tab.0.center/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605599782451" />
+    <state width="1345" height="136" key="GridCell.Tab.0.left" timestamp="1605599782450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="136" key="GridCell.Tab.0.left/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605599782450" />
+    <state width="1345" height="136" key="GridCell.Tab.0.right" timestamp="1605599782451">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="136" key="GridCell.Tab.0.right/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605599782451" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1605599608207">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/-1920.-308.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605599608207" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605414765016">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
