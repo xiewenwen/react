@@ -6,6 +6,7 @@ import './App.css';
 import Word from "./Word";
 import Rose from "./Rose";
 import Test from "./test";
+import formatName from "./test";
 import F from "./axiosTest";
 import { Button } from 'antd';
 
@@ -30,6 +31,7 @@ class App extends Component{
           </div>
               <Word/>
               <Rose/>
+              {/*<formatName></formatName>*/}
               <Test/>
               {/*<F></F>*/}
               <Standard/>
