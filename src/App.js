@@ -28,12 +28,12 @@ class App extends Component{
               哈哈哈哈哈{this.state.song}
 
           </div>
-              <Word></Word>
+              <Word/>
               <Rose/>
               <Test/>
               {/*<F></F>*/}
-              <Standard></Standard>
-              <ButtonStyle></ButtonStyle>
+              <Standard/>
+              <ButtonStyle/>
               <Button type="primary">Primary Button</Button>
               <Button>Default Button</Button>
               <Button type="dashed">Dashed Button</Button>
